@@ -1,0 +1,44 @@
+[
+    {
+        "model": "raterprojectapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Welcome To",
+            "designer": "Benoit Turpin",
+            "year_released": 1991,
+            "num_players": 12,
+            "play_time": 60,
+            "age": 10,
+            "player": 1,
+            "review": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Settlers of Catan",
+            "designer": "Klaus Teuber",
+            "year_released": 1991,
+            "num_players": 12,
+            "play_time": 60,
+            "age": 10,
+            "player": 1,
+            "review": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "Dungeons & Dragons",
+            "designer": "Wizards of the Coast",
+            "year_released": 1991,
+            "num_players": 12,
+            "play_time": 60,
+            "age": 10,
+            "player": 1,
+            "review": 1
+        }
+    }
+]

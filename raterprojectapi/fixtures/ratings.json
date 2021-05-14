@@ -1,0 +1,37 @@
+[
+    {
+        "model": "raterprojectapi.rating",
+        "pk": 1,
+        "fields": {
+            "rating": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.rating",
+        "pk": 2,
+        "fields": {
+            "rating": 2
+        }
+    },
+    {
+        "model": "raterprojectapi.rating",
+        "pk": 3,
+        "fields": {
+            "rating": 3
+        }
+    },
+    {
+        "model": "raterprojectapi.rating",
+        "pk": 4,
+        "fields": {
+            "rating": 4
+        }
+    },
+    {
+        "model": "raterprojectapi.rating",
+        "pk": 5,
+        "fields": {
+            "rating": 5
+        }
+    }
+]

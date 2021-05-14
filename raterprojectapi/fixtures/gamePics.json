@@ -1,0 +1,11 @@
+[
+    {
+        "model": "raterprojectapi.gamePic",
+        "pk": 1,
+        "fields": {
+            "image_url": "https://images.unsplash.com/photo-1552875101-979d61f26eb0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGFsb3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+            "game" : 1,
+            "player": 1
+        }
+    }
+]
