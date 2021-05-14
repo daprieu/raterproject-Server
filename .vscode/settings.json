@@ -8,5 +8,6 @@
             "database": "db.sqlite3"
         }
     ],
-    "python.linting.enabled": true
+    "python.linting.enabled": false,
+    "python.pythonPath": "/Users/danielprieu/.local/share/virtualenvs/raterproject-hCOZBUeI/bin/python"
 }
