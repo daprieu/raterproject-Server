@@ -1,0 +1,12 @@
+[
+    {
+        "model": "raterprojectapi.review",
+        "pk": 1,
+        "fields": {
+            "title": "bananas",
+            "review": "Its bananas",
+            "rating": 5,
+            "player": 1
+        }
+    }
+]
